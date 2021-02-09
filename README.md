@@ -33,7 +33,7 @@ To type in a text box
   cy.get('.gLFyf.gsfi').type('cyress tutorials');
 
 To wait for an element to appears on page
-cy.wait(5000) //
+cy.wait(5000)
 
 ## Reports
 1. Open mochawesome.html in browser to view test report - ./output/mochawesome.html
