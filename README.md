@@ -6,8 +6,9 @@ Page object model is followed, where all tests are present under **cypress/integ
 ## Installation
 Use node package manager to install [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements), or direct download [Cypress](https://www.cypress.io/)
 
-[!](https://www.dropbox.com/s/3kf4nnierfoyjcj/feedback%20window.png?dl=0)
+![image](https://user-images.githubusercontent.com/78784343/107335607-23bffa00-6ade-11eb-9c64-a61f51f1d87f.png)
 
+![video](https://user-images.githubusercontent.com/78784343/107338810-fd9c5900-6ae1-11eb-8e73-13cc373d3dbf.mp4)
 ## Test Execution
 1. Clone repo
 2. Go to project root directory (where package.json is present)
