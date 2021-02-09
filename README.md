@@ -8,7 +8,8 @@ Use node package manager to install [Cypress](https://docs.cypress.io/guides/get
 
 ![image](https://user-images.githubusercontent.com/78784343/107335607-23bffa00-6ade-11eb-9c64-a61f51f1d87f.png)
 
-![video](https://user-images.githubusercontent.com/78784343/107338810-fd9c5900-6ae1-11eb-8e73-13cc373d3dbf.mp4)
+![installing-cli](https://user-images.githubusercontent.com/78784343/107340471-d21a6e00-6ae3-11eb-8c22-24995a566928.gif)
+
 ## Test Execution
 1. Clone repo
 2. Go to project root directory (where package.json is present)
