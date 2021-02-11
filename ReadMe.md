@@ -6,7 +6,7 @@ The *Cypress-Cucumber-Preprocessor* add support for using features files when te
 
 Install the plugin by running:
 
-npm install --save-dev cypress-cucumber-preprocessor
+`npm install --save-dev cypress-cucumber-preprocessor`
 
 ## Cypress Configuration
 Add it to your plugins:
@@ -20,7 +20,7 @@ Example: cypress/integration/
 
 ## Test Execution
 
-cypress run --spec **/*.features
+`cypress run --spec **/*.features`
 
 ## How to write test
 
@@ -30,7 +30,7 @@ We use [Cucumber Expression](https://cucumber.io/docs/cucumber/cucumber-expressi
 
 ## How to run tests
 Use command in your terminal
-./node_modules/.bin/cypress open
+`./node_modules/.bin/cypress open`
 
 Click on .feature file on the list of specs. And execution starts
 
@@ -43,7 +43,7 @@ You can use tags to select which test should execute using [cucumber's tag expre
 You can also use tags to ignore specific scenarios when running cypress test runner
 
 You can add "env" property with the "TAGS" in cypress.json configuration file.
-
+```
 {
     "env": {
         "TAGS": "not @ignore"
@@ -53,3 +53,4 @@ You can add "env" property with the "TAGS" in cypress.json configuration file.
     "ignoreTestFiles": "*.js",
     //etc
 }
+```
