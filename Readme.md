@@ -1,6 +1,5 @@
-selenium-cucumber-java
-=================
-
+# Selenium-Cucumber-Java
+--------------
 selenium-cucumber : Automation Testing Using Java
 
 selenium-cucumber is a behavior driven development (BDD) approach to write automation test script to test Web.
@@ -9,8 +8,15 @@ It is cross-platform, open source and free.
 Automate your test cases with minimal coding.
 [More Details](http://seleniumcucumber.info/)
 
+ # Pre-requisites
+- [Java](https://java.com/en/download/manual.jsp)
+- [Maven](https://maven.apache.org/download.cgi)
+- [Eclipse](https:https://eclipse.org/downloads/)
+
 Documentation
 -------------
+
+Setting up Selenium-Cucumber-Java
 * [Installation](doc/installation.md)
 * [Predefined steps](doc/canned_steps.md)
 
