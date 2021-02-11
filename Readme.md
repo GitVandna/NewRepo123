@@ -13,22 +13,20 @@ Automate your test cases with minimal coding.
 - [Maven](https://maven.apache.org/download.cgi)
 - [Eclipse](https:https://eclipse.org/downloads/)
 
-Documentation
--------------
-
-Setting up Selenium-Cucumber-Java
-* [Installation](doc/installation.md)
-* [Predefined steps](doc/canned_steps.md)
+# Setting up Selenium-Cucumber-Java
+- Install Java and set path
+- Install Maven and set path
+- Clone respective repository
 
 
-Writing a test
+# Writing a test
 --------------
 
 The cucumber features goes in the `features` library and should have the ".feature" extension.
 
 You can start out by looking at `features/my_first.feature`. You can extend this feature or make your own features using some of the [predefined steps](doc/canned_steps.md) that comes with selenium-cucumber.
 
-Running test
+# Running test
 --------------
 
 Go to your project directory from terminal and hit following commands
